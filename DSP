@@ -1,0 +1,3 @@
+EC2= Elastic Compute Cloud
+AWS=Amazon Web Services
+Elb=Elastic Load Balancer
